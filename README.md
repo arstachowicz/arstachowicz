@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rose
 - 👀 I’m interested in cats. All Hail Our Masters
-- 🌱 I’m learning/improving my SQL, C#, C++, and Python
-- 💞️ I’m looking to collaborate on something. Anything.
+- 🌱 I’m learning/improving my SQL, C#, C++, and Python. Willing to learn more, but this is what I'm good in!
+- 💞️ I’m looking to collaborate on something. Anything. Let's mine some data, baby
 - 📫 Reach me through email!
